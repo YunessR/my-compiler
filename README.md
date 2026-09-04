@@ -1,10 +1,10 @@
 # TinyL Compiler
 
-A recursive descent compiler for the **tinyL** language, written in C. This project implements a complete compiler pipeline including lexical analysis, parsing, and code generation.
+A recursive descent compiler for a mock language, called TinyL, written in C. This project implements a complete compiler pipeline including lexical analysis, parsing, and code generation.
 
 ## Overview
 
-This compiler translates programs written in the tinyL language into intermediate instructions. TinyL is a simple programming language designed for educational purposes, supporting:
+This compiler translates programs written in the mock language into intermediate instructions. TinyL is a simple programming language designed for educational purposes, supporting:
 - Variable assignments
 - Arithmetic and bitwise operations
 - Input/output operations
